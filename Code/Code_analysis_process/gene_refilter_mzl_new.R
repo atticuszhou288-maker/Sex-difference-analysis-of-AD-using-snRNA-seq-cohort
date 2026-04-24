@@ -1,3 +1,4 @@
+set.seed(123)
 # 1. 检查Seurat对象的基本信息
 cat("=== Seurat对象基本信息 ===\n")
 cat("总基因数:", nrow(mzl), "\n")
